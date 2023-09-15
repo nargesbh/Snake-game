@@ -1,5 +1,7 @@
 # Snake Game in Python
 
+![snake gif](snake.gif)
+
 This is a simple implementation of the classic Snake game in Python using the Pygame library. The game offers a customizable screen mode and the option to choose whether the snake should die when it hits the walls.
 
 ## Getting Started
